@@ -1,4 +1,4 @@
-# WordWisp
+# InkWell
 It is a lightweight, user-friendly text editor designed for simplicity. Ideal for quick note-taking or working with plain text files. It is like a personal notepad.
 
 Library used- tkinter<br>
