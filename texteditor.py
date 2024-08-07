@@ -19,7 +19,7 @@ def save_file():
             messagebox.showinfo("Info","file saves successfully!")
 
 root= tk.Tk()
-root.title("WordWisp")
+root.title("InkWell")
 root.geometry("800x600")
 
 menu= tk.Menu(root)
